@@ -230,3 +230,13 @@ body {
     background-color: #707070;
     margin-bottom: 49px;
 }
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+.main{
+    margin: 0 auto;
+}
